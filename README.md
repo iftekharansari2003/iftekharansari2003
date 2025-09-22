@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **FullStack Development**
 
-- 👨‍💻 Latest Project Link [https://nomadstay.onrender.com/listings](https://nomadstay.onrender.com/listings)
+- 👨‍💻 Latest Project Link [Job Insider](https://job-portal-new-client-olive.vercel.app/)
 
 - 📫 How to reach me **iftekharansari973@gmail.com**
 
